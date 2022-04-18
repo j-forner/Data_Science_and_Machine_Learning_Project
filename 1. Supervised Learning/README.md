@@ -5,16 +5,16 @@ Supervised learning is one of the main machine learning paradigms, and is define
 
 ## Algorithms Implemented in this Folder
 
-- 1. Perceptron
-- 2. Gradient Descent
-- 3. Linear Regression
-- 4. Logistic Regression
-- 5. Deep Neural Networks
-- 6. k-Nearest Neighbors
-- 7. Decision Trees
-- 8. Regression Trees
-- 9. Ensemble Methods 
-  - 1. Bagging
-  - 2. Random Forests
-  - 3. AdaBoost
-  - 4. Gradient Boosting
+1. Perceptron
+2. Gradient Descent
+3. Linear Regression
+4. Logistic Regression
+5. Deep Neural Networks
+6. k-Nearest Neighbors
+7. Decision Trees
+8. Regression Trees
+9. Ensemble Methods 
+  1. Bagging
+  2. Random Forests
+  3. AdaBoost
+  4. Gradient Boosting
