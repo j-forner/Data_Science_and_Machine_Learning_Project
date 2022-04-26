@@ -1,8 +1,5 @@
 # Introduction
 
-This is [an example](https://www.kaggle.com/datasets/hershyandrew/cricket-chirp-vs-temperature/ "Title") inline link.
+In constrast to classification tasks -- in which we predict categorical labels -- regression tasks involve predicting real-valued target labels. A common type of regression model is **linear regression**, where we assume that there is a linear relationship between the target values and the feature vectors.
 
-
-The perceptron is a function approximation algorithm designed by Frank Rosenblatt in 1958. It uses a linear combination of the feature values of given data to linearly separate it into two classes. We can therefore say that the perceptron algorithm is a **linear classifier** and a **binary classifier**, respectively. 
-
-In this folder, we implement the perceptron from scratch and use it to classify penguin species. The data is provided by the palmer_penguins.csv dataset from class.
+In this folder, we use the single neuron linear regression model to find an underlying relationship between temperature and frequency of cricket chirps. The data is provided by the [Cricket Chirp vs Temperature Dataset](https://www.kaggle.com/datasets/hershyandrew/cricket-chirp-vs-temperature/ "Title").
