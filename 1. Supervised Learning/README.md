@@ -6,14 +6,13 @@
 ## Algorithms Implemented in this Folder
 
 1. Perceptron
-2. Gradient Descent
-3. Linear Regression
-4. Logistic Regression
-5. Deep Neural Networks
-6. k-Nearest Neighbors
-7. Decision Trees
-8. Regression Trees
-9. Ensemble Methods 
+2. Linear Regression
+3. Logistic Regression
+4. Deep Neural Networks
+5. k-Nearest Neighbors
+6. Decision Trees
+7. Regression Trees
+8. Ensemble Methods 
     1. Bagging
     2. Random Forests
     3. AdaBoost
