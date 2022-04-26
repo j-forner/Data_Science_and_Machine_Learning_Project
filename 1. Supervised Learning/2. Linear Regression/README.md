@@ -1,0 +1,8 @@
+# Introduction
+
+This is [an example](https://www.kaggle.com/datasets/hershyandrew/cricket-chirp-vs-temperature/ "Title") inline link.
+
+
+The perceptron is a function approximation algorithm designed by Frank Rosenblatt in 1958. It uses a linear combination of the feature values of given data to linearly separate it into two classes. We can therefore say that the perceptron algorithm is a **linear classifier** and a **binary classifier**, respectively. 
+
+In this folder, we implement the perceptron from scratch and use it to classify penguin species. The data is provided by the palmer_penguins.csv dataset from class.
