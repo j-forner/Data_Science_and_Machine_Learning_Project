@@ -1,4 +1,4 @@
-# Introduction
+# The Perceptron Model
 
 The perceptron is a function approximation algorithm designed by Frank Rosenblatt in 1958.[^fn]. It uses a linear combination of the feature values of given data to linearly separate it into two classes. We can therefore say that the perceptron algorithm is a **linear classifier** and a **binary classifier**, respectively. 
 

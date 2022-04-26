@@ -1,4 +1,4 @@
-# Introduction
+# Linear Regression
 
 In constrast to classification tasks -- in which we predict categorical labels -- regression tasks involve predicting real-valued target labels. A common type of regression model is **linear regression**, where we assume that there is a linear relationship between the target values and the feature vectors.
 
