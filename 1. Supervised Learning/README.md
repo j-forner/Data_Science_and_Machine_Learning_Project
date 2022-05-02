@@ -5,9 +5,9 @@
 
 ## Algorithms Implemented in this Folder
 
-1. Perceptron
-2. Linear Regression
-3. Logistic Regression
+1. Single Neuron Perceptron
+2. Single Neuron Linear Regression
+3. Single Neuron Logistic Regression
 4. Deep Neural Networks
 5. k-Nearest Neighbors
 6. Decision Trees
