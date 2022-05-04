@@ -15,5 +15,6 @@
 8. Ensemble Methods 
     1. Bagging
     2. Random Forests
-    3. AdaBoost
-    4. Gradient Boosting
+9. Ensemble Boosting
+    1. AdaBoost
+    2. Gradient Boosting
