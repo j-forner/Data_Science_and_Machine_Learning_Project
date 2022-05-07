@@ -1,7 +1,7 @@
 # Supervised Learning
 
 ## Introduction
-**Supervised learning** is one of the main machine learning paradigms, and is defined by its use of labeled training data, i.e. data whose labels are known. We can use supervised machine learning algorithms to solve both classification and regression problems, and will do so with the algorithms listed below.
+**Supervised learning** is one of the main machine learning paradigms, and is defined by its use of labeled training data, i.e. data whose labels/classes are known. We can use supervised machine learning algorithms for both classification and regression problems, and will do so with the algorithms listed below.
 
 ## Algorithms/Techniques Implemented in this Folder
 
