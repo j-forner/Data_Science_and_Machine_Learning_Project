@@ -1,5 +1,5 @@
 # Principal Component Analysis
 
-Principal component analysis is a dimensionality reduction technique that aims to extract those features whose variance explains most of the variance in the given dataset. These features (principal components) are what our machine learning models are trained on and can simplify the runtime of such algorithms.
+Principal component analysis is a dimensionality reduction technique that aims to extract those data attributes from a dataset whose variance explains most of the data's variance. We train our model only on these attributes by first projecting our data onto a lower-dimensional space defined by what are known as principal component axes. This process can greatly simplify the training of our machine learning models by feeding them only the "useful" information about the data.
 
-In this folder, we perform principal component analysis on the [penguins dataset](https://github.com/mwaskom/seaborn-data/blob/master/penguins.csv "Title") to understand which of the real-valued features explain most of the variation in the dataset.
+In this folder, we perform principal component analysis on the [penguins dataset](https://github.com/mwaskom/seaborn-data/blob/master/penguins.csv "Title") to understand which of the real-valued features explain most of the variation in the dataset. We focus on the real-valued features: bill length, bill depth, flipper length, and flipper depth.
